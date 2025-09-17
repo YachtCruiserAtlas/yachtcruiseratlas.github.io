@@ -739,13 +739,6 @@ a {
 .cid-uX18BsIECR .mbr-section-btn {
   color: #ffffff;
 }
-#custom-html-53 {
-  /* Type valid CSS here */
-}
-#custom-html-53 #openseadragon {
-  width: 100vw;
-  height: 100vh;
-}
 #custom-html-57 {
   /* Type valid CSS here */
 }
@@ -757,4 +750,11 @@ a {
 #custom-html-57 p {
   font-size: 60px;
   color: #777;
+}
+#custom-html-58 {
+  /* Type valid CSS here */
+}
+#custom-html-58 #openseadragon {
+  width: 100vw;
+  height: 100vh;
 }
