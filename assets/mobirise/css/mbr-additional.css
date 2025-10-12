@@ -105,7 +105,7 @@ body {
   background-color: #29487e !important;
 }
 .bg-info {
-  background-color: #181818 !important;
+  background-color: #ffffff !important;
 }
 .bg-warning {
   background-color: #bbbbbb !important;
@@ -159,25 +159,25 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #181818 !important;
-  border-color: #181818 !important;
-  color: #ffffff !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+  color: #808080 !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-info:hover,
 .btn-info:focus,
 .btn-info.focus,
 .btn-info.active {
-  color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  color: #545454 !important;
+  background-color: #d4d4d4 !important;
+  border-color: #d4d4d4 !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-info.disabled,
 .btn-info:disabled {
-  color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  color: #808080 !important;
+  background-color: #d4d4d4 !important;
+  border-color: #d4d4d4 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -334,23 +334,23 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background-color: transparent !important;
-  border-color: #181818;
-  color: #181818;
+  border-color: #ffffff;
+  color: #ffffff;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
-  color: #000000 !important;
+  color: #d4d4d4 !important;
   background-color: transparent!important;
-  border-color: #000000 !important;
+  border-color: #d4d4d4 !important;
   box-shadow: none!important;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
-  color: #ffffff !important;
-  background-color: #181818 !important;
-  border-color: #181818 !important;
+  color: #808080 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #29487e !important;
 }
 .text-info {
-  color: #181818 !important;
+  color: #ffffff !important;
 }
 .text-warning {
   color: #bbbbbb !important;
@@ -499,7 +499,7 @@ a.text-success.active {
 a.text-info:hover,
 a.text-info:focus,
 a.text-info.active {
-  color: #000000 !important;
+  color: #cccccc !important;
 }
 a.text-warning:hover,
 a.text-warning:focus,
@@ -544,7 +544,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #181818;
+  background-color: #ffffff;
 }
 .alert-warning {
   background-color: #bbbbbb;
@@ -583,7 +583,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #cbcbcb;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -750,6 +750,69 @@ a {
   /* Type valid CSS here */
 }
 #custom-html-5n #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-5o {
+  /* Type valid CSS here */
+}
+#custom-html-5o #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-5p {
+  /* Type valid CSS here */
+}
+#custom-html-5p #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-5q {
+  /* Type valid CSS here */
+}
+#custom-html-5q #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-5r {
+  /* Type valid CSS here */
+}
+#custom-html-5r #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-5t {
+  /* Type valid CSS here */
+}
+#custom-html-5t #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-5s {
+  /* Type valid CSS here */
+}
+#custom-html-5s #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-5u {
+  /* Type valid CSS here */
+}
+#custom-html-5u #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-5v {
+  /* Type valid CSS here */
+}
+#custom-html-5v #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-5w {
+  /* Type valid CSS here */
+}
+#custom-html-5w #openseadragon {
   width: 100vw;
   height: 100vh;
 }
