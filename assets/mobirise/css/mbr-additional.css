@@ -816,3 +816,10 @@ a {
   width: 100vw;
   height: 100vh;
 }
+#custom-html-5x {
+  /* Type valid CSS here */
+}
+#custom-html-5x #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
