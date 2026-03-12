@@ -707,37 +707,17 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-uZ2lN0BP7j {
-  background-image: url("../../../assets/images/sailing-yacht.jpg");
+#custom-html-63 {
+  /* Type valid CSS here */
 }
-.cid-uZ2lN0BP7j .mbr-fallback-image.disabled {
-  display: none;
+#custom-html-63 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
 }
-.cid-uZ2lN0BP7j .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uZ2lN0BP7j .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-uZ2lN0BP7j .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 30%;
-  }
-}
-.cid-uZ2lN0BP7j .mbr-section-title {
-  color: #ffffff;
-}
-.cid-uZ2lN0BP7j .mbr-text,
-.cid-uZ2lN0BP7j .mbr-section-btn {
-  color: #ffffff;
+#custom-html-63 p {
+  font-size: 60px;
+  color: #777;
 }
 #custom-html-58 {
   /* Type valid CSS here */
@@ -850,4 +830,36 @@ a {
 #custom-html-61 #openseadragon {
   width: 100vw;
   height: 100vh;
+}
+.cid-vdEeTBDqVu {
+  background-image: url("../../../assets/images/sailing-yacht.jpg");
+}
+.cid-vdEeTBDqVu .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vdEeTBDqVu .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vdEeTBDqVu .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-vdEeTBDqVu .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 30%;
+  }
+}
+.cid-vdEeTBDqVu .mbr-section-title {
+  color: #ffffff;
+}
+.cid-vdEeTBDqVu .mbr-text,
+.cid-vdEeTBDqVu .mbr-section-btn {
+  color: #ffffff;
 }
