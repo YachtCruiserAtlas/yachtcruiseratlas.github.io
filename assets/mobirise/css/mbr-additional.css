@@ -707,37 +707,30 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-uZ2lN0BP7j {
-  background-image: url("../../../assets/images/sailing-yacht.jpg");
+#custom-html-62 {
+  /* Type valid CSS here */
+  /* Prevent mobile browsers from re-rendering the iframe constantly */
 }
-.cid-uZ2lN0BP7j .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uZ2lN0BP7j .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
+#custom-html-62 .fullscreen-map,
+#custom-html-62 .fullscreen-map iframe {
   width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+  height: 100vh;
+  /* full viewport height */
+  margin: 0;
+  padding: 0;
+  border: none;
 }
-.cid-uZ2lN0BP7j .image-wrap img {
-  width: 100%;
+#custom-html-62 .fullscreen-map {
+  padding: 0 !important;
 }
-@media (min-width: 992px) {
-  .cid-uZ2lN0BP7j .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 30%;
-  }
+#custom-html-62 .mbr-section {
+  padding: 0 !important;
 }
-.cid-uZ2lN0BP7j .mbr-section-title {
-  color: #ffffff;
-}
-.cid-uZ2lN0BP7j .mbr-text,
-.cid-uZ2lN0BP7j .mbr-section-btn {
-  color: #ffffff;
+#custom-html-62 iframe[src*="umap"] {
+  image-rendering: auto !important;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  will-change: transform;
 }
 #custom-html-58 {
   /* Type valid CSS here */
@@ -850,4 +843,36 @@ a {
 #custom-html-61 #openseadragon {
   width: 100vw;
   height: 100vh;
+}
+.cid-vejjHt9zlI {
+  background-image: url("../../../assets/images/sailing-yacht.jpg");
+}
+.cid-vejjHt9zlI .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vejjHt9zlI .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vejjHt9zlI .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-vejjHt9zlI .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 30%;
+  }
+}
+.cid-vejjHt9zlI .mbr-section-title {
+  color: #ffffff;
+}
+.cid-vejjHt9zlI .mbr-text,
+.cid-vejjHt9zlI .mbr-section-btn {
+  color: #ffffff;
 }
