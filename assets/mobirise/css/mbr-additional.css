@@ -915,3 +915,10 @@ a {
   width: 100vw;
   height: 100vh;
 }
+#custom-html-6e {
+  /* Type valid CSS here */
+}
+#custom-html-6e #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
