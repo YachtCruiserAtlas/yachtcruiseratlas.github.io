@@ -750,13 +750,6 @@ a {
 .cid-veBRoIONZB .mbr-section-btn {
   color: #ffffff;
 }
-#custom-html-58 {
-  /* Type valid CSS here */
-}
-#custom-html-58 #openseadragon {
-  width: 100vw;
-  height: 100vh;
-}
 #custom-html-5n {
   /* Type valid CSS here */
 }
@@ -862,124 +855,6 @@ a {
   width: 100vw;
   height: 100vh;
 }
-.cid-veBOaxz4zq {
-  background-image: url("../../../assets/images/sailing-yacht.jpg");
-}
-.cid-veBOaxz4zq .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-veBOaxz4zq .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-veBOaxz4zq .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-veBOaxz4zq .row {
-  flex-direction: row-reverse;
-}
-.cid-veBOaxz4zq .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-veBOaxz4zq .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-veBOaxz4zq .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-veBOaxz4zq .mbr-section-title {
-  color: #fafafa;
-}
-.cid-veBOaxz4zq .mbr-text,
-.cid-veBOaxz4zq .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-veBQ5YK0PI {
-  background-image: url("../../../assets/images/sailing-yacht.jpg");
-}
-.cid-veBQ5YK0PI .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-veBQ5YK0PI .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-veBQ5YK0PI .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-veBQ5YK0PI .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 70%;
-  }
-}
-.cid-veBQ5YK0PI .mbr-section-title {
-  color: #ffffff;
-}
-.cid-veBQ5YK0PI .mbr-text,
-.cid-veBQ5YK0PI .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-veBQ5ZBuAw {
-  background-image: url("../../../assets/images/sailing-yacht.jpg");
-}
-.cid-veBQ5ZBuAw .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-veBQ5ZBuAw .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-veBQ5ZBuAw .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-veBQ5ZBuAw .row {
-  flex-direction: row-reverse;
-}
-.cid-veBQ5ZBuAw .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-veBQ5ZBuAw .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-veBQ5ZBuAw .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-veBQ5ZBuAw .mbr-section-title {
-  color: #fafafa;
-}
-.cid-veBQ5ZBuAw .mbr-text,
-.cid-veBQ5ZBuAw .mbr-section-btn {
-  color: #ffffff;
-}
 #custom-html-68 {
   /* Type valid CSS here */
   /* Prevent mobile browsers from re-rendering the iframe constantly */
@@ -1004,4 +879,25 @@ a {
   transform: translateZ(0);
   backface-visibility: hidden;
   will-change: transform;
+}
+#custom-html-58 {
+  /* Type valid CSS here */
+}
+#custom-html-58 #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-6b {
+  /* Type valid CSS here */
+}
+#custom-html-6b #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-6a {
+  /* Type valid CSS here */
+}
+#custom-html-6a #openseadragon {
+  width: 100vw;
+  height: 100vh;
 }
